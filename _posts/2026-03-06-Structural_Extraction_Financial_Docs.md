@@ -80,9 +80,7 @@ Any failure in these algorithmic tie-outs automatically downgrades the confidenc
 ### Works Cited
 
 * Kulkarni, S., & Kulkarni, Y. (2026). **Benchmarking Multi-Agent LLM Architectures for Financial Document Processing: A Comparative Study of Orchestration Patterns, Cost-Accuracy Tradeoffs and Production Scaling Strategies.** arXiv preprint arXiv:2603.22651. [Available here](https://arxiv.org/abs/2603.22651)
-
 * Cho et al. (2025). **TASER: Table Agents for Schema-guided Extraction and Recommendation**. arXiv preprint arXiv:2508.13404v1. [Available here](https://arxiv.org/html/2508.13404v1)
-
 * Jingfei Wu et al. (2026). **TabAgent: A Multi-Agent Table Extraction Framework for Unstructured Documents**. VLDB Endowment. [Available here](https://www.vldb.org/2025/Workshops/VLDB-Workshops-2025/DATAI/DATAI25_6.pdf)
 * Lumen Alta. **9 LLM enterprise applications advancements in 2026 for CIOs and CTOs**. [Available here](https://lumenalta.com/insights/9-llm-enterprise-applications-advancements-in-2026-for-cios-and-ctos).
 * Accenture. **Agentic AI and the future of work in financial services**. [Available here](https://bankingblog.accenture.com/agentic-ai-future-of-work).
