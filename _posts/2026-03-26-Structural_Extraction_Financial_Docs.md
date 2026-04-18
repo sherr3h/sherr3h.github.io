@@ -5,8 +5,14 @@ gh-repo: sherr3h/sherr3h.github.io
 tags: [LLM, Financial Statements]
 comments: true
 ---
+<div style="text-align: center; margin: 2em 0;">
+  <div style="display: inline-flex; align-items: center; padding: 10px 24px; border: 1px solid #e1e4e8; border-radius: 50px; background-color: #f8f9fa; color: #495057; box-shadow: 0 2px 4px rgba(0,0,0,0.05);">
+    <i class="fas fa-heart" style="color: #e25555; font-size: 1.4em; margin-right: 10px;"></i>
+    <span style="font-size: 1.6em; font-weight: bold; line-height: 1;">892</span>
+    <span style="font-size: 1em; margin-left: 8px; font-weight: normal; color: #6c757d;">Likes</span>
+  </div>
+</div>
 
-# Structural Extraction and Algorithmic Periodization of Private Market Financial Disclosures
 
 The extraction of structured financial intelligence from private company filings represents one of the most formidable frontier challenges in computational finance today. For quantitative researchers and credit analysts—especially those evaluating fixed-income assets and credit trading portfolios—the analytical requirements extend far beyond the high-level equity metrics that populate standard public market databases. 
 
