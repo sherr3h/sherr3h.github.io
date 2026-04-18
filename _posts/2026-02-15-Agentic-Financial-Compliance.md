@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Beyond Automation: The Cognitive Shift in Agentic Compliance and AML
+title: Beyond Automation - The Cognitive Shift in Agentic Compliance and AML
 gh-repo: sherr3h/sherr3h.github.io
 tags: [LLM, Agent, Compliance, KYC, Anti-Money Laundering]
 comments: true
