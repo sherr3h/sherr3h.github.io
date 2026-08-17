@@ -6,7 +6,9 @@ tags: [LLM, Algo Trading, Agentc, Alpha Investing]
 comments: true
 ---
 
-Large Language Models are increasingly being deployed in the hyper-competitive domain of quantitative equity investing. The application of machine learning in systematic trading has rapidly evolved far beyond the simple, text-based sentiment analysis of news headlines. The current frontier involves the automated, algorithmic discovery of complex mathematical trading signals—a highly specialized discipline known as Formulaic Alpha Factor Mining. These mathematically defined formulaic alphas synthesize diverse data streams, including price actions, volume metrics, and parsed alternative sentiment data, to construct sophisticated predictive indicators of future asset returns.
+The application of machine learning in systematic trading has rapidly evolved far beyond the simple, text-based sentiment analysis of news headlines. 
+
+The current frontier involves the automated, algorithmic discovery of complex mathematical trading signals—a highly specialized discipline known as Formulaic Alpha Factor Mining. These mathematically defined formulaic alphas synthesize diverse data streams, including price actions, volume metrics, and parsed alternative sentiment data, to construct sophisticated predictive indicators of future asset returns.
 
 ### The Alpha Lifecycle: Generation, Evaluation, and Searching
 
