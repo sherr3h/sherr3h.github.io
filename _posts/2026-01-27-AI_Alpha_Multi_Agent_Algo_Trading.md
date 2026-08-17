@@ -5,19 +5,8 @@ gh-repo: sherr3h/sherr3h.github.io
 tags: [LLM, Algo Trading, Agentc, Alpha Investing]
 comments: true
 ---
-<div style="text-align: left; margin: 0.8em 0;">
-  <div style="display: inline-flex; align-items: center; padding: 6px 16px; border: 1px solid #e1e4e8; border-radius: 50px; background-color: #f8f9fa; color: #495057; box-shadow: 0 1px 3px rgba(0,0,0,0.05);">
-    <svg width="14" height="14" viewBox="0 0 24 24" fill="#f4a261" style="margin-right: 8px;">
-      <path d="M12 21.35l-1.45-1.32C5.4 15.36 2 12.28 2 8.5 2 5.42 4.42 3 7.5 3c1.74 0 3.41.81 4.5 2.09C13.09 3.81 14.76 3 16.5 3 19.58 3 22 5.42 22 8.5c0 3.78-3.4 6.86-8.55 11.54L12 21.35z"/>
-    </svg>
-    <span style="font-size: 1.1em; font-weight: bold; line-height: 1;">318</span>
-    <span style="font-size: 0.9em; margin-left: 6px; font-weight: normal; color: #6c757d;">Likes</span>
-  </div>
-</div>
 
-Beyond the rigorous operational demands of back-office compliance and unstructured data extraction, Large Language Models are increasingly being deployed in the hyper-competitive domain of quantitative equity investing. 
-
-The application of machine learning in systematic trading has rapidly evolved far beyond the simple, text-based sentiment analysis of news headlines. The current frontier involves the automated, algorithmic discovery of complex mathematical trading signals—a highly specialized discipline known as Formulaic Alpha Factor Mining (FAFM). These mathematically defined formulaic alphas synthesize diverse data streams, including price actions, volume metrics, and parsed alternative sentiment data, to construct sophisticated predictive indicators of future asset returns.
+Large Language Models are increasingly being deployed in the hyper-competitive domain of quantitative equity investing. The application of machine learning in systematic trading has rapidly evolved far beyond the simple, text-based sentiment analysis of news headlines. The current frontier involves the automated, algorithmic discovery of complex mathematical trading signals—a highly specialized discipline known as Formulaic Alpha Factor Mining. These mathematically defined formulaic alphas synthesize diverse data streams, including price actions, volume metrics, and parsed alternative sentiment data, to construct sophisticated predictive indicators of future asset returns.
 
 ### The Alpha Lifecycle: Generation, Evaluation, and Searching
 
